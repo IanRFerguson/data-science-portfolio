@@ -23,7 +23,7 @@ In an ongoing project, I am exploring the degree to which long-term, county-leve
 * *n* number of tweets scraped from random sample of each bin via `tweepy` library
 * Hate speech classifier trained and applied to dataset using `sci-kit learn`
 
-<a href="https://github.com/IanRFerguson/demographic-driven-conservative-shift" target=_blank>**Link to repository**</a>
+<a href="https://github.com/IanRFerguson/demographic-driven-conservative-shift" target="_blank">**Link to repository**</a>
 
 <br> <br>
 
@@ -62,4 +62,4 @@ Professional basketball is increasingly becoming positionless, and this project 
 
 This project builds on the `NiPy` ecosystem, and is optimized to allow the user to modify first- and group-level analyses via an external JSON file. My first foray into object-oriented Python!
 
-<a href="https://github.com/IanRFerguson/scp-fmri-analysis-2019" target=_blank>**Link to repository**</a>
+<a href="https://github.com/IanRFerguson/scp-fmri-analysis-2019" target="_blank">**Link to repository**</a>
