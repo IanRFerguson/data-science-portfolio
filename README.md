@@ -9,9 +9,13 @@ Howdy! This repository is a collection of various projects (and works in progres
 * <a href="https://www.linkedin.com/in/ianrferguson/" target="_blank">**Add me on LinkedIn**</a>
 * Follow me on Twitter at <a href="" target="_blank">**@human_cactus**</a>
 
+<br>
+
 Thanks for looking, have a nice day!
 
 <br> <br>
+
+---------
 
 ## us-demographic-shifts
 
