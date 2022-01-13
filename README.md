@@ -13,9 +13,6 @@ Howdy! This repository is a collection of various projects (and works in progres
 
 Thanks for looking, have a nice day!
 
-<br> <br>
-
----------
 
 ## us-demographic-shifts
 
