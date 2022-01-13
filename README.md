@@ -1,11 +1,15 @@
 # Ian Richard Ferguson, M.A.
 ## Data Science Portfolio
 
-Howdy! This repository hosts a collection of data science and other computational projects that I believe accurately highlight my skill set.
+Howdy! This repository is a collection of various projects (and works in progress!) that I believe accurately highlight my skill-set and research interests.
 
 <br>
 
-Thanks for looking! Find me on Twitter at <a href="https://twitter.com/human_cactus" target="_blank">@human_cactus</a>
+* Find my resume <a href="https://github.com/IanRFerguson/data-science-portfolio/blob/main/FERGUSON-Resume.pdf" target="_blank">**here**</a>
+* <a href="https://www.linkedin.com/in/ianrferguson/" target="_blank">**Add me on LinkedIn**</a>
+* Follow me on Twitter at <a href="" target="_blank">**@human_cactus**</a>
+
+Thanks for looking, have a nice day!
 
 <br> <br>
 
@@ -39,6 +43,7 @@ This project quantifies aggregate responses to Joe Biden and Donald Trump on Deb
 * AFINN polarity averaged per tweet, and polar responses averaged per candidate per timepoint
 * Affective trends smoothed and visualized to create more meaningful trendlines
 
+<a href = "https://github.com/IanRFerguson/data-science-portfolio/tree/main/debate-night-performances" target="_blank">**Link to project**</a>
 
 <br> <br>
 
@@ -53,6 +58,8 @@ Professional basketball is increasingly becoming positionless, and this project 
 * All features were normalized and decomposed into two components using PCA
 * Low-dimensional data grouped together using K-Means clustering
 * Cluster labels projected up to high-dimensional data to better understand meaningful trends in basketball terms
+
+<a href = "https://github.com/IanRFerguson/data-science-portfolio/blob/main/nba-new-age/positionless-basketball.ipynb" target="_blank">**Link to project**</a>
 
 <br> <br>
 
