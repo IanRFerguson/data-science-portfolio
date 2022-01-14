@@ -48,6 +48,22 @@ This project quantifies aggregate responses to Joe Biden and Donald Trump on Deb
 
 <br> <br>
 
+## salary-model
+
+<img src=".img/salary-model.png" width=65%>
+
+{ describe }
+
+### Methods
+* NBA player stats and salaries scraped from Basketball Reference using `pandas`
+* Data cleaned and transformed using `dplyr`
+* Salary model fit using `MASS` and predictive features identified using AIC stepwise variable selection
+* Analysis conducted per team to identify ratio of overpaid / underpaid players
+
+<a href="https://github.com/IanRFerguson/data-science-portfolio/blob/main/salary-model/model_salaries.ipynb" target="_blank">**Link to project**</a>
+
+<br> <br>
+
 ## nba-new-age
 
 <img src=".img/nba.png" width=65%>
