@@ -52,7 +52,7 @@ This project quantifies aggregate responses to Joe Biden and Donald Trump on Deb
 
 <img src=".img/salary-model.png" width=65%>
 
-{ describe }
+This project seeks to model NBA players' salaries based on their on-court performance
 
 ### Methods
 * NBA player stats and salaries scraped from Basketball Reference using `pandas`
@@ -68,7 +68,7 @@ This project quantifies aggregate responses to Joe Biden and Donald Trump on Deb
 
 <img src=".img/nba.png" width=65%>
 
-Professional basketball is increasingly becoming positionless, and this project attempts to quantify that trend using Machine Learning 
+Professional basketball is increasingly becoming positionless, and this project seeks to quantify that trend using contemporary Machine Learning approaches (namely PCA and k-Means Clustering)
 
 ### Methods
 * Data scraped from Basketball Reference and cleaned using standard methods (mean imputation, filtering, etc.)
