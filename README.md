@@ -7,7 +7,7 @@ Howdy! This repository is a collection of various projects (and works in progres
 
 * Find my resume <a href="https://github.com/IanRFerguson/data-science-portfolio/blob/main/FERGUSON-Resume.pdf" target="_blank">**here**</a>
 * <a href="https://www.linkedin.com/in/ianrferguson/" target="_blank">**Add me on LinkedIn**</a>
-* Find me on Twitter at <a href="https://twitter.com/human_cactus" target="_blank">**@human_cactus**</a> and <a href="https://ianrferguson.com" target="_blank">**on the web**</a>
+* Find me <a href="https://ianrferguson.com" target="_blank">**on the web**</a> and on Twitter at <a href="https://twitter.com/human_cactus" target="_blank">**@human_cactus**</a>
 
 <br>
 
