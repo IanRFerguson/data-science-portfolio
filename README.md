@@ -3,16 +3,12 @@
 
 Howdy! This repository is a collection of various projects (and works in progress!) that I believe accurately highlight my skill-set and research interests.
 
-<br>
-
 ### Find me Online
 
 * <a href="https://github.com/IanRFerguson/data-science-portfolio/blob/main/FERGUSON-Resume.pdf" target="_blank">**Resume**</a>
 * <a href="https://www.linkedin.com/in/ianrferguson/" target="_blank">**LinkedIn**</a>
 * <a href="https://ianrferguson.com" target="_blank">**On the Web**</a>
 
-
-<br>
 
 Thanks for looking, have a nice day!
 
