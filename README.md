@@ -51,7 +51,7 @@ This project quantifies aggregate responses to Joe Biden and Donald Trump on Deb
 
 <img src=".img/red_bridge.png" width=65%>
 
-This full-stack web application was devloped in conjunction with <a href="" target="_blank">**Red Bridge Strategies**</a>, a political strategy firm based in San Francisco. It should go without saying, but this visualization does not contain real proprietary data
+This full-stack web application was devloped in conjunction with <a href="https://www.redbridgewins.com" target="_blank">**Red Bridge Strategies**</a>, a political strategy firm based in San Francisco. It should go without saying, but this visualization does not contain real proprietary data
 
 ### Methods
 * This `Flask` app accepts user input in an HTML form, converts it to geographic data, and renders a plot of the firm's voter outreach efforts
